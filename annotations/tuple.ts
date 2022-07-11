@@ -1,0 +1,1 @@
+// Tuple is array-like structure where each element represents some propertyof a record

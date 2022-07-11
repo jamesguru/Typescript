@@ -38,3 +38,18 @@ const logInfo = (id:number,title:string,completed:boolean) => {
 
 }
 
+
+
+// Types of Typescript
+
+// Type is the easy way to refer to the properties and functions that a value has.
+
+
+// Types are two in nature i) Primitive types  and ii) Object types
+
+// Primitive types include number, boolean, void, undefined, string, symbol, null
+
+// Object types include functions,arrays,objects,classes
+
+
+

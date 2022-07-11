@@ -1,0 +1,1 @@
+// If the declaration and initialization are on the same line  Typescript  will figure out the type of 'color' for us
