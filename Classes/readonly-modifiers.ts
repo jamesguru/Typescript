@@ -13,7 +13,7 @@ class Company{
     }
 
 
-    describe(this:Department){
+    describe(this:Company){
 
 
         // this.name = "james"; | cannot reassign the readonly property
